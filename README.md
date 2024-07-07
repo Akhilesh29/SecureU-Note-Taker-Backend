@@ -7,7 +7,7 @@ Developed using Node.js, Express.js, and MongoDB, this sophisticated backend not
 ## Setup Instructions
 1. Clone the repository.
 ```
-git clone <github link>
+git clone https://github.com/Akhilesh29/SecureU-Note-Taker-Backend
 ```
 
 2. Ensure Node.js is installed on your machine.
